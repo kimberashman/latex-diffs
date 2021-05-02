@@ -1,9 +1,6 @@
 # latex-diffs
 This app determines if two texts are the same. 
-I made this to help me determine if an edit has been made to a paragraph (if tracked changes were off). 
-
-Check it out here: 
-
+I made this to help me determine if an edit has been made to a paragraph (if tracked changes were off).
 
 ## To Do: 
 * Highlight differences in paragraphs 
